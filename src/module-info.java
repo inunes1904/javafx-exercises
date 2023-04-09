@@ -1,5 +1,7 @@
 module exercisesfx {
 
 	requires javafx.controls;
-	opens basic;
+	requires javafx.graphics;
+	opens basic; 
+	opens layout; 
 }
