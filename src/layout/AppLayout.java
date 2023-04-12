@@ -9,7 +9,7 @@ public class AppLayout extends Application {
 
 	@Override
 	public void start(Stage primaryStage) throws Exception {
-		
+	
 		Parent root = null;
 		
 		// root = new TestAnchorPane();
